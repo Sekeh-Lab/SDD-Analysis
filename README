@@ -1,0 +1,4 @@
+Here we provide a single example of how the processing for MI, phi, and AIM are calculated for the corrected trajectories (with lost annotations removed as described in the accompanying paper) in order to reduce the repository to a manageable size.
+
+The remaining videos from bookstore, as well as the other 7 scenes, can be done by reproducing the directory structure, moving the appropriate video annotation.txt file into the folder, and
+applying the sequence of processing scripts provided to process the annotation data, calculate MI and phi, and ultimately calculate AIM.
