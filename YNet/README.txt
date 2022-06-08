@@ -1,0 +1,3 @@
+To run YNet we provide the Full_YNet.ipynb notebook. This was initially run within Google Colab by mounting the drive containing the directory, so these steps will need to be changed accordingly.
+The notebook contains the necessary lines to attempt each experiment (training/testing with each separate class for inD and SDD, and training with one class and testing with another). 
+The processed data is provided within ./data
